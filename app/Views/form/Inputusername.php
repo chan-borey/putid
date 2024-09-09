@@ -27,6 +27,13 @@ Input Username
             <input type="password" name="password" id="password" placeholder="Password" >
             </label><br><br>
             <button type="submit">Confirm</button>
+             <label>UserName:
+            <input type="text" name="name" id="name" placeholder="Name" >
+            </label><br><br>
+            <label>Password:  
+            <input type="password" name="password" id="password" placeholder="Password" >
+            </label><br><br>
+            <button type="submit">Confirm</button>
         </form>
     </div><br>
     <div>
